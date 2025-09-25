@@ -1,7 +1,5 @@
 # Hi, I'm Salim Khan👋
 
-🚀 I am an aspiring DevOps Engineer focused on automation, cloud infrastructure, and continuous integration/deployment.
-
 🚀 Aspiring DevOps Engineer | Cloud Infrastructure | Automation Enthusiast
 
 ## 🛠️ DevOps Skills & Tool
