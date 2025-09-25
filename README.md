@@ -1,17 +1,38 @@
 # Hi, I'm Salim Khan👋
 
-🚀 DevOps Engineer | Cloud Infrastructure | Automation Enthusiast
+🚀 I am an aspiring DevOps Engineer focused on automation, cloud infrastructure, and continuous integration/deployment.
 
-## 🛠️ Skills & Tools
-- Cloud: AWS, Azure, GCP
-- Containers: Docker, Kubernetes
-- CI/CD: Jenkins, GitHub Actions, GitLab CI
-- IAC: Terraform, Ansible
-- Monitoring: Prometheus, Grafana
+🚀 Aspiring DevOps Engineer | Cloud Infrastructure | Automation Enthusiast
+
+## 🛠️ DevOps Skills & Tool
+![Terraform](https://skillicons.dev/icons?i=terraform)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Azure](https://skillicons.dev/icons?i=azure)
+![Bash](https://skillicons.dev/icons?i=bash)
+![Ansible](https://skillicons.dev/icons?i=ansible)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Python](https://skillicons.dev/icons?i=python)
+![GO](https://skillicons.dev/icons?i=go)
+![Grafana](https://skillicons.dev/icons?i=grafana)
+![Prometheus](https://skillicons.dev/icons?i=prometheus)
+
 
 ## 🏆 Certifications
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified-informational)
-![Azure DevOps](https://img.shields.io/badge/Azure-DevOps-blue)
+
+-AWS Certified Cloud Practitioner
+
+![Azure Certified](https://img.shields.io/badge/Azure-Certified-blue)
+
+-Microsoft Certified: Azure Administrator Associate
+
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/salim-khan-3ab20b155)
+
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
